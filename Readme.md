@@ -14,3 +14,9 @@ charge the lights.
 4) Getting on the bike. (seatpost) website provides list: helmet, front light, tail light, 
 5) Reading a book.
 6) When at work. schedule an alarm for when I should be getting ready to leave work.
+
+The NFC chips that I am using:<br/>
+https://www.amazon.com/gp/product/B075CL66FH/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+The app I use to program the chips (android):<br/>
+NFC Tools by wakdev (free)
